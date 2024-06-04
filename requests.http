@@ -33,6 +33,7 @@ authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdyYWNlL
 
 {
     "client": "Harry Potter",
+    "tableNumber": 1,
     "products": [
         {
             "qty": 1,

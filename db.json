@@ -2,6 +2,7 @@
   "orders": [
     {
       "id": 1,
+      "tableNumber": 1,
       "userId": 2,
       "client": "Jude Milhon",
       "products": [
@@ -33,6 +34,7 @@
     },
     {
       "id": 2,
+      "tableNumber":2,
       "userId": 2,
       "client": "Katie Bouman",
       "products": [
@@ -63,6 +65,7 @@
       "dataEntry": "2022-03-05 15:00",
       "dateProcessed": "2022-03-05 16:00"
     }
+   
   ],
   "products": [
     {
